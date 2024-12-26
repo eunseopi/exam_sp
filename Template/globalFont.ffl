@@ -1,0 +1,8 @@
+{
+  "styleName": "globalFont",
+  "items": {
+    "edit_here": "\r\n@font-face {\r\n\tfont-family: 'edit_here' !no;\r\n\t\r\n\r\n}\r\n",
+    "Montserrat-Medium": "\r\n@font-face {\r\n\tfont-family: 'Montserrat-Medium';\r\n    font-weight: 900;\r\n    src: url('Assets/Font/Montserrat-Medium.ttf');\r\n}\r\n",
+    "NanumSquare": "\r\n@font-face {\r\n\tfont-family: 'NanumSquare';\r\n    src: url('Assets/Font/NanumSquareR.ttf');\r\n}\r\n"
+  }
+}

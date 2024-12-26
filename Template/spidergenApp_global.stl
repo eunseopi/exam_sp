@@ -1,0 +1,7 @@
+{
+  "styleName": "spidergenApp_global",
+  "items": {
+    "_global_style_": "\r\n._global_style_\r\n{\r\n\tfont-size: 12px;\r\n\tfont-family: courier;\r\n\ttext-size-adjust: none;\r\n\r\n}\r\n",
+    "idBtn": ".idBtn {\r\n    border-radius: 50%; \r\n    appearance: none;\r\n    width: 10px; \r\n    height: 20px;\r\n    border: 1px solid #ccc; \r\n}\r\n\r\n\r\n.idBtn:checked {\r\n    background-color: green; \r\n    border-color: green; \r\n}"
+  }
+}

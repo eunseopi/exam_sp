@@ -1,0 +1,169 @@
+<div data-base="AView" data-class="MainView" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: 100%; background-color: rgb(255, 255, 255);" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;AFlexLayout&quot;,&quot;AButton&quot;,&quot;ALabel&quot;,&quot;AGridLayout&quot;,&quot;ATextBox&quot;]}" data-browser-width="5540" data-browser-height="4770"
+    ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 75px; align-items: center; left: 0px; top: 0px; position: absolute; justify-content: center; background-color: rgb(0, 0, 30); background-repeat: no-repeat;"
+        ><div style="position: relative; box-sizing: border-box;"
+            ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 160px; height: 22px; position: relative; left: 0px; top: 0px; background-image: url(&quot;Assets/spidergen_logo.png&quot;); background-color: rgba(0, 0, 0, 0); margin-left: -100px; margin-top: 0px; background-repeat: no-repeat; margin-right: 10px; cursor: pointer;"></button
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 80px; height: 22px; left: 0px; top: 0px; position: relative; margin-left: 4px; margin-top: 0px; margin-right: 10px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 30); padding-bottom: 0px; cursor: pointer; font-family: NanumSquare;" data-style-over=" btn_over">도큐먼트</button
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 80px; height: 22px; left: 0px; top: 0px; position: relative; margin-right: 10px; margin-left: 4px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 30); margin-top: 0px; padding-bottom: 0px; cursor: pointer; font-family: NanumSquare;" data-style-over=" btn_over">커뮤니티</button
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 80px; height: 22px; left: 0px; top: 0px; position: relative; margin-right: 10px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 30); padding-bottom: 0px; cursor: pointer; margin-left: 2.56px; font-family: NanumSquare;" data-style-over=" btn_over">다운로드</button
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 80px; height: 22px; left: 0px; top: 0px; position: relative; margin-right: 10px; margin-left: 2.56px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 30); padding-bottom: 0px; cursor: pointer; font-family: NanumSquare;" data-style-over=" btn_over">회사소개</button
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 80px; height: 22px; left: 0px; top: 0px; position: relative; margin-right: 10px; margin-left: 1.12px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 30); padding-bottom: 0px; cursor: pointer; font-family: NanumSquare;" data-style-over=" btn_over">화상솔루션</button
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 80px; height: 22px; left: 0px; top: 0px; position: relative; margin-right: 10px; margin-left: 1.12px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 30); padding-bottom: 0px; cursor: pointer; font-family: NanumSquare;" data-style-over=" btn_over">CLOUD</button
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 80px; height: 22px; left: 0px; top: 0px; position: relative; margin-right: 10px; color: rgb(255, 255, 255); background-color: rgb(0, 0, 30); padding-bottom: 0px; cursor: pointer; font-family: NanumSquare;" data-style-over=" btn_over">WTS</button
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 300px; height: 75px; align-items: stretch; left: -160px; top: -40px; position: absolute; margin-left: 210px; margin-top: 0px;"
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 22px; height: 22px; left: 0px; top: 5px; position: absolute; margin-top: 20px; margin-left: 50px; background-image: url(&quot;Assets/ic_login.png&quot;); color: rgb(255, 255, 255); background-repeat: no-repeat;"></label
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; left: 60px; top: 9px; position: absolute; margin-top: 20px; margin-left: 60px; color: rgb(255, 255, 255);">|</label
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 50px; height: 22px; left: 100px; top: 5px; position: absolute; margin-top: 20px; background-color: rgba(0, 0, 0, 0); color: rgb(255, 255, 255); margin-left: 30px; cursor: pointer;">회원가입</button
+                ></div
+                ><div style="position: relative; box-sizing: border-box;"
+                    ><button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: 22px; left: 0px; top: 5px; position: relative; margin-top: 20px; margin-left: 80px; background-color: rgba(0, 0, 0, 0); color: rgb(255, 255, 255); cursor: pointer;">로그인</button
+                ></div
+            ></div
+        ></div
+    ></div
+    ><div data-base="AGridLayout" data-class="AGridLayout" class="AGridLayout-Style" style="width: 100%; height: 691px; left: 1200px; top: 190px; position: absolute; background-image: url(&quot;Assets/main_visual.jpg&quot;); background-size: auto; min-height: 480px; margin-left: -0.0001252px; margin-right: auto; background-repeat: no-repeat; margin-top: -3.13001e-05px;"
+        ><table cellpadding="0" cellspacing="0"
+            ><colgroup
+                ><col width="150px"
+            ></colgroup
+            ><tbody
+                ><tr height="30%" style=""
+                    ><td class="" style=""
+                        ><div data-base="AView" data-class="AView" class="AView-Style" style="position: relative; margin-left: 1400px; margin-top: 940px; background-color: rgb(0, 0, 0); border-width: 2px; border-style: solid; border-color: rgb(255, 255, 255); border-radius: 10px; width: 25%; left: 0px; top: 0px; height: 80px; color: rgb(0, 0, 0);"
+                            ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 30px; height: 30px; left: 20px; top: 20px; position: absolute; background-image: url(&quot;Assets/ic_download_01.png&quot;); background-color: rgba(0, 0, 0, 0); color: rgb(255, 255, 255); background-repeat: no-repeat;"></label
+                            ><pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: auto; height: auto; left: 60px; top: 20px; position: absolute; color: rgb(255, 255, 255); font-family: NanumSquare;">스파이더젠
+쉽고빠른 스파이더젠을 지금 사용해 보세요.</pre
+                            ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 100px; height: 35px; left: -100px; top: -130px; position: absolute; margin-left: 440px; margin-top: 150px; background-color: rgba(0, 0, 0, 0); border-width: 2px; border-style: solid; border-color: rgb(255, 255, 255); border-radius: 5px; display: block; cursor: pointer;"
+                                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 17px; left: 50px; top: 151px; position: absolute; background-image: url(&quot;Assets/ic_download_02.png&quot;); background-color: rgba(0, 0, 0, 0); color: rgb(255, 255, 255); background-repeat: no-repeat; height: 17px; display: flex; margin-left: -40px; margin-top: -143px;"></label
+                                ><pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: auto; height: auto; left: 30px; top: 31px; position: absolute; color: rgb(255, 255, 255); font-family: NanumSquare; display: flex; margin-left: auto; margin-top: -24px;">다운로드</pre
+                            ></div
+                        ></div
+                        ><div data-base="AGridLayout" data-class="AGridLayout" class="AGridLayout-Style" style="width: 100%; height: 100%; position: relative; margin-left: 1290px; margin-top: 610px; color: rgb(0, 0, 0); left: 0px; top: 0px; background-color: rgb(0, 0, 0);"
+                            ><table cellpadding="0" cellspacing="0"
+                                ><colgroup
+                                    ><col width="150px"
+                                ></colgroup
+                                ><tbody
+                                    ><tr height="135px" style=""
+                                        ><td class="" style=""
+                                            ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 760px; height: auto; left: 0px; top: 0px; position: relative; color: rgb(255, 255, 255); margin-left: 0px; margin-top: 70px; font-family: Montserrat-Medium; font-style: inherit; font-weight: bold; font-size: 70px; cursor: text; letter-spacing: -2px;" contenteditable="true" data-original-text="One Source Multi-Use">One Source Multi-Use</label
+                                        ></td
+                                    ></tr
+                                    ><tr
+                                        ><td class=""
+                                            ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 880px; height: 100%; position: relative; color: rgb(255, 255, 255); font-size: 55px; margin-top: 0px; margin-left: 0px; font-family: NanumSquare; font-weight: bold; border-style: solid; left: 0px; top: 0px; letter-spacing: -2.78px;">쉽고 빠른 통합 플랫폼 개발 솔루션</label
+                                        ></td
+                                    ></tr
+                                ></tbody
+                            ></table
+                        ></div
+                    ></td
+                ></tr
+                ><tr height="1px" style=""
+                    ><td class=""></td
+                ></tr
+                ><tr height="auto" style=""
+                    ><td class=""
+                        ><div data-base="AView" data-class="AView" class="AView-Style" style="height: 940px; left: 420px; top: 1340px; position: relative; margin-top: 1170px; margin-left: -470px; background-color: rgb(255, 255, 255); width: 1500px;"
+                            ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: auto; align-items: center; position: relative; justify-content: center; margin-top: -540px; margin-left: -1.00007px; left: 0px; top: 0px;"
+                                ><div style="position: relative; box-sizing: border-box;"
+                                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 240px; height: 200px; left: 0px; top: 0px; position: relative; margin-left: 10px; margin-top: 10px; background-color: rgb(255, 255, 255); cursor: pointer; border-style: solid; border-color: rgb(205, 205, 205); border-right-width: 0.5px;"
+                                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 47px; height: 50px; left: 170px; top: 40px; position: absolute; background-image: url(&quot;Assets/ic_documents_01.png&quot;); background-repeat: no-repeat; padding: 5px 10px 5px 5px;"></label
+                                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; left: 0px; top: 40px; position: absolute; font-family: NanumSquare; font-weight: bold; font-size: 22px; font-style: inherit; padding: 5px 10px 5px 5px;">시작하기</label
+                                        ><pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 230px; height: 80px; left: 0px; top: 90px; position: absolute; font-size: 16px; background-color: rgba(0, 0, 0, 0); color: rgb(89, 89, 89); padding: 5px 10px 5px 5px;">쉽고 빠르게
+스파이더젠을 시작해보세요.</pre
+                                    ></div
+                                ></div
+                                ><div style="position: relative; box-sizing: border-box;"
+                                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 240px; height: 200px; left: 0px; top: 0px; position: relative; margin-left: 10px; margin-top: 10px; background-color: rgb(255, 255, 255); cursor: pointer; border-right: 0.5px solid rgb(205, 205, 205);"
+                                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 47px; height: 50px; left: 170px; top: 40px; position: absolute; background-image: url(&quot;Assets/ic_documents_05.png&quot;); background-repeat: no-repeat; margin: 0px; padding: 5px 15px 5px 5px;"></label
+                                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; left: 0px; top: 40px; position: absolute; font-family: NanumSquare; font-weight: bold; font-size: 22px; font-style: inherit; margin: 0px; padding: 5px 15px 5px 5px;">가이드</label
+                                        ><pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 230px; height: 80px; left: 0px; top: 90px; position: absolute; font-size: 16px; background-color: rgba(0, 0, 0, 0); color: rgb(89, 89, 89); margin: 0px; padding: 5px 15px 5px 5px;">스파이더젠의 다양하고
+편리한 기능을 익혀보세요.
+
+</pre
+                                    ></div
+                                ></div
+                                ><div style="position: relative; box-sizing: border-box;"
+                                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 240px; height: 200px; left: 0px; top: 0px; position: relative; margin-left: 10px; margin-top: 10px; background-color: rgb(255, 255, 255); cursor: pointer; border-right: 0.5px solid rgb(205, 205, 205);"
+                                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 57px; height: 50px; left: 170px; top: 40px; position: absolute; background-image: url(&quot;Assets/ic_documents_06.png&quot;); background-repeat: no-repeat; padding: 5px 15px 5px 5px;"></label
+                                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 63px; height: auto; left: 0px; top: 40px; position: absolute; font-family: NanumSquare; font-weight: bold; font-size: 22px; font-style: inherit; padding: 5px 15px 5px 5px;">API</label
+                                        ><pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 230px; height: 80px; left: 0px; top: 90px; position: absolute; font-size: 16px; background-color: rgba(0, 0, 0, 0); color: rgb(89, 89, 89); padding: 5px 15px 5px 5px;">파워풀한 통합 플랫폼
+개발 솔루션을 확인하세요.</pre
+                                    ></div
+                                ></div
+                                ><div style="position: relative; box-sizing: border-box;"
+                                    ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 240px; height: 200px; left: 0px; top: 0px; position: relative; margin-left: 21.9999px; margin-top: 3.49994px; background-color: rgb(255, 255, 255); cursor: pointer; border-right: 0.5px solid rgb(205, 205, 205);"
+                                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 47px; height: 50px; left: 170px; top: 40px; position: absolute; background-image: url(&quot;Assets/ic_documents_02.png&quot;); background-repeat: no-repeat; padding: 5px 15px 5px 5px;"></label
+                                        ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; left: 0px; top: 40px; position: absolute; font-family: NanumSquare; font-weight: bold; font-size: 22px; font-style: inherit; padding: 5px 15px 5px 5px;">공지사항</label
+                                        ><pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 230px; height: 80px; left: -4.98246e-05px; top: 90.0001px; position: absolute; font-size: 16px; background-color: rgba(0, 0, 0, 0); color: rgb(89, 89, 89); padding: 5px 15px 5px 5px;">스파이더젠의
+새로운 정보를 확인하세요.</pre
+                                    ></div
+                                ></div
+                            ></div
+                        ></div
+                    ></td
+                ></tr
+                ><tr height="auto"
+                    ><td class=""></td
+                ></tr
+            ></tbody
+        ></table
+    ></div
+    ><div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: auto; align-items: center; position: absolute; justify-content: flex-start; margin-top: 1400px; margin-left: 240px; left: 740px; top: -1280px;"
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 240px; height: 200px; left: 0px; top: 0px; position: relative; margin-left: 10px; margin-top: 10px; background-color: rgb(255, 255, 255); cursor: pointer; border-style: solid; border-color: rgb(205, 205, 205); border-right-width: 0.5px;"
+                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 47px; height: 50px; left: 170px; top: 40px; position: absolute; background-image: url(&quot;Assets/ic_documents_01.png&quot;); background-repeat: no-repeat; padding: 5px 10px 5px 5px;"></label
+                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; left: 0px; top: 40px; position: absolute; font-family: NanumSquare; font-weight: bold; font-size: 22px; font-style: inherit; padding: 5px 10px 5px 5px;">시작하기</label
+                ><pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 230px; height: 80px; left: 0px; top: 90px; position: absolute; font-size: 16px; background-color: rgba(0, 0, 0, 0); color: rgb(89, 89, 89); padding: 5px 10px 5px 5px;">쉽고 빠르게
+스파이더젠을 시작해보세요.</pre
+            ></div
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 240px; height: 200px; left: 0px; top: 0px; position: relative; margin-left: 10px; margin-top: 10px; background-color: rgb(255, 255, 255); cursor: pointer; border-right: 0.5px solid rgb(205, 205, 205);"
+                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 47px; height: 50px; left: 170px; top: 40px; position: absolute; background-image: url(&quot;Assets/ic_documents_05.png&quot;); background-repeat: no-repeat; margin: 0px; padding: 5px 15px 5px 5px;"></label
+                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; left: 0px; top: 40px; position: absolute; font-family: NanumSquare; font-weight: bold; font-size: 22px; font-style: inherit; margin: 0px; padding: 5px 15px 5px 5px;">가이드</label
+                ><pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 230px; height: 80px; left: 0px; top: 90px; position: absolute; font-size: 16px; background-color: rgba(0, 0, 0, 0); color: rgb(89, 89, 89); margin: 0px; padding: 5px 15px 5px 5px;">스파이더젠의 다양하고
+편리한 기능을 익혀보세요.
+
+</pre
+            ></div
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 240px; height: 200px; left: 0px; top: 0px; position: relative; margin-left: 10px; margin-top: 10px; background-color: rgb(255, 255, 255); cursor: pointer; border-right: 0.5px solid rgb(205, 205, 205);"
+                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 57px; height: 50px; left: 170px; top: 40px; position: absolute; background-image: url(&quot;Assets/ic_documents_06.png&quot;); background-repeat: no-repeat; padding: 5px 15px 5px 5px;"></label
+                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 63px; height: auto; left: 0px; top: 40px; position: absolute; font-family: NanumSquare; font-weight: bold; font-size: 22px; font-style: inherit; padding: 5px 15px 5px 5px;">API</label
+                ><pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 230px; height: 80px; left: 0px; top: 90px; position: absolute; font-size: 16px; background-color: rgba(0, 0, 0, 0); color: rgb(89, 89, 89); padding: 5px 15px 5px 5px;">파워풀한 통합 플랫폼
+개발 솔루션을 확인하세요.</pre
+            ></div
+        ></div
+        ><div style="position: relative; box-sizing: border-box;"
+            ><div data-base="AView" data-class="AView" class="AView-Style" style="width: 240px; height: 200px; left: 0px; top: 0px; position: relative; margin-left: 21.9999px; margin-top: 3.49994px; background-color: rgb(255, 255, 255); cursor: pointer; border-right: 0.5px solid rgb(205, 205, 205);"
+                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 47px; height: 50px; left: 170px; top: 40px; position: absolute; background-image: url(&quot;Assets/ic_documents_02.png&quot;); background-repeat: no-repeat; padding: 5px 15px 5px 5px;"></label
+                ><label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; left: 0px; top: 40px; position: absolute; font-family: NanumSquare; font-weight: bold; font-size: 22px; font-style: inherit; padding: 5px 15px 5px 5px;">공지사항</label
+                ><pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 230px; height: 80px; left: -4.98246e-05px; top: 90.0001px; position: absolute; font-size: 16px; background-color: rgba(0, 0, 0, 0); color: rgb(89, 89, 89); padding: 5px 15px 5px 5px;">스파이더젠의
+새로운 정보를 확인하세요.</pre
+            ></div
+        ></div
+    ></div
+></div>

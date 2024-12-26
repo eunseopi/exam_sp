@@ -1,0 +1,9 @@
+{
+  "styleName": "ButtonStyle",
+  "items": {
+    "edit_here": "\r\n.edit_here\r\n{\r\n\t/* TODO:edit here */\r\n\r\n}\r\n",
+    "btn_over": ".btn_over\r\n{\r\n    color: rgb(2, 191, 191);\r\n    font-weight: bolder;\r\n    border-bottom: 4px solid rgb(2, 191, 191);\r\n    padding-bottom: 20px;\r\n}\r\n\r\n",
+    "btn_over2": ".btn_over2\r\n{\r\n    color: #02bfbf;\r\n}\r\n\r\n",
+    "check_over": ".check_over\r\n{\r\n    background-color: rgb(2, 191, 191);\r\n\tcolor: white;\r\n}\r\n\r\n"
+  }
+}

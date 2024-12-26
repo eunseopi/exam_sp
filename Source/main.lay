@@ -1,0 +1,10 @@
+<div data-base="AView" data-class="main" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: 100%; background-color: rgb(255, 255, 255); overflow: visible;" data-browser-width="1920" data-browser-height="1450" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;ATabView&quot;]}"
+    ><div data-base="ATabView" data-class="ATabView" class="ATabView-Style" data-state="0" style="width: 1920px; height: 100%; left: -10px; top: 0px; position: absolute; overflow: scroll;" id="main--mainView"
+        ><div class="tab_area" style="display: none;"
+            ><span class="ATabView_select">tab1</span
+            ><span class="ATabView_deselect">tab2</span
+            ><span class="ATabView_deselect">tab3</span
+        ></div
+        ><div class="tab_contents" style="height: 100%;"></div
+    ></div
+></div>

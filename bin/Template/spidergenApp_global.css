@@ -1,0 +1,23 @@
+
+._global_style_
+{
+	font-size: 12px !important;
+	font-family: courier !important;
+	text-size-adjust: none !important;
+
+}
+
+.idBtn {
+    border-radius: 50% !important; 
+    appearance: none !important;
+    width: 10px !important; 
+    height: 20px !important;
+    border: 1px solid #ccc !important; 
+}
+
+
+.idBtn:checked {
+    background-color: green !important; 
+    border-color: green !important; 
+}
+
